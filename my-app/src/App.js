@@ -2,7 +2,7 @@
 import React from 'react';
 
 
-import { Hello } from './Hello'
+
 
 
 
@@ -15,7 +15,7 @@ export function App() {
     <div>
 
       
-    <Hello />
+
     
 
     </div>
