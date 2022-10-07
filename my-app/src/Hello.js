@@ -1,5 +1,5 @@
-export function Hello({name="Giuseppe"}) {
+export function Hello() {
   
-        return <h1>Hello, {name} </h1>
+        return <h1>Hello, World! </h1>
     
 }
